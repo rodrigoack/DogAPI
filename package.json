@@ -1,0 +1,22 @@
+{
+  "name": "dogapi",
+  "version": "1.0.0",
+  "description": "DogAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoojg/DogAPI.git"
+  },
+  "author": "Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoojg/DogAPI/issues"
+  },
+  "homepage": "https://github.com/leoojg/DogAPI#readme",
+  "dependencies": {
+    "hapi": "^17.8.4"
+  }
+}
