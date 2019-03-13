@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/leoojg/DogAPI#readme",
   "dependencies": {
-    "hapi": "^17.8.4"
+    "hapi": "^17.8.4",
+    "hapi-auth-jwt2": "^8.3.0",
+    "jwks-rsa": "^1.4.0",
+    "mongoose": "^5.4.19"
   }
 }
